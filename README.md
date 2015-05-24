@@ -3,7 +3,7 @@ Coursera Course Project
 
 This project will read UCI HAR Dataset data and create a tidy dataset.
 
-Instruction:
+Instructions:
 1) Set working folder
 2) Download UCI HAR Dataset from https://d396qusza40orc.cloudfront.net/getdata%2Fprojectfiles%2FUCI HAR Dataset.zip
 3) Copy run_analysis.R to working folder
