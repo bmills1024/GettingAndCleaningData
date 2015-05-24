@@ -1,6 +1,9 @@
 Source:  http://archive.ics.uci.edu/ml/machine-learning-databases/00240/UCI%20HAR%20Dataset.names
+
 NOTE:  This data is taken directly from URL noted above.
+
 Also reference:  http://archive.ics.uci.edu/ml/datasets/Human+Activity+Recognition+Using+Smartphones#
+
 
 ===================================================================================================
 Human Activity Recognition Using Smartphones Dataset
